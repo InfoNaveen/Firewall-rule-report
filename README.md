@@ -24,4 +24,4 @@ A new inbound rule was configured to enhance system security. The following step
 ## Deliverable: Firewall Rule Screenshot
 [span_6](start_span)Below is the screenshot showing the newly created and enabled firewall rule in the Windows Defender Firewall console.[span_6](end_span)
 
-![Firewall Rule Screenshot](firewall report.jpg)
+![Firewall Rule Screenshot](firewallreport.jpg)
